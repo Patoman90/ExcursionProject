@@ -7,14 +7,14 @@ body{
 }
 
 /* Header section */
-.HeaderSectionA {
+#HeaderSectionA {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
-.HeaderSectionB,a {
+#HeaderSectionB,a {
     color: aquamarine;
     font-size: 16px;
 }
@@ -35,7 +35,27 @@ body{
 
 /* Image section */
     #campsite {
-        margin: 5px, 10px, 5px, 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
         width: 90%;
     }
 /* Footer section */
+#FooterPara1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+#FooterSpan{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#FooterPara2{
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    font-size: 21px;
+}
+
