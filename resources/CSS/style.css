@@ -34,7 +34,7 @@ body{
     }
 
 /* Image section */
-    img{
+    #campsite {
         margin: 5px, 10px, 5px, 10px;
         width: 90%;
     }
