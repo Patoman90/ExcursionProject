@@ -36,6 +36,6 @@ body{
 /* Image section */
     img{
         margin: 5px, 10px, 5px, 10px;
-        max-width: fit-content;
+        width: 90%;
     }
 /* Footer section */
