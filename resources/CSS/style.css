@@ -3,17 +3,35 @@
 body{
     background-color: black;
     text-align: center;
+    color: white;
 }
 
 /* Header section */
-.HeaderSectionA{
+.HeaderSectionA {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
-.HeaderSectionB{
+.HeaderSectionB,a {
     color: aquamarine;
     font-size: 16px;
 }
+
+/* Media section */
+    #mediaContentB {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 300;
+        font-size: 42px;
+        color: white;
+    }
+
+    #mediaContentC{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: gray;
+        font-size: 21px;
+    }
+/* Image section */
+
+/* Footer section */
