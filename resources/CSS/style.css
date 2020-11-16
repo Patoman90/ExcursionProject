@@ -32,6 +32,10 @@ body{
         color: gray;
         font-size: 21px;
     }
-/* Image section */
 
+/* Image section */
+    img{
+        margin: 5px, 10px, 5px, 10px;
+        max-width: fit-content;
+    }
 /* Footer section */
